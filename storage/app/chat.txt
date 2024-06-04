@@ -1,0 +1,41 @@
+WAKTU    : 2024-06-04 06:17:44
+PENGIRIM : Andriawan Kairupan
+PENERIMA : Fadhly Andriawan
+PESAN    : Tes
+
+
+WAKTU    : 2024-06-04 06:17:58
+PENGIRIM : Fadhly Andriawan
+PENERIMA : Andriawan Kairupan
+PESAN    : Ok masuk
+
+
+WAKTU    : 2024-06-04 06:32:53
+PENGIRIM : Andriawan Kairupan
+PENERIMA : Fadhly Andriawan
+PESAN    : tes
+
+
+WAKTU    : 2024-06-04 06:36:38
+PENGIRIM : Fadhly Andriawan
+PENERIMA : Andriawan Kairupan
+PESAN    : tes
+
+
+WAKTU    : 2024-06-04 06:37:00
+PENGIRIM : Fadhly Andriawan
+PENERIMA : Andriawan Kairupan
+PESAN    : tes
+
+
+WAKTU    : 2024-06-04 06:38:16
+PENGIRIM : Fadhly Andriawan
+PENERIMA : Andriawan Kairupan
+PESAN    : tes
+
+
+WAKTU    : 2024-06-04 06:43:47
+PENGIRIM : Fadhly Andriawan
+PENERIMA : Andriawan Kairupan
+PESAN    : halo
+
